@@ -20,6 +20,10 @@ header img{
 	border: 12px solid #663300;
 }
 
+div{
+	background-color: #d9b38c;
+}
+
 .content{
 	max-width: 900px;
 	margin: 0 auto; 
@@ -32,7 +36,7 @@ img.big-image{
 
 p.caption{
 	font-size: 16px;
-	color: lightgrey;
+	color: white;
 	font-style: italic;
 }
 
@@ -43,8 +47,9 @@ ul{
 }
 
 a{
-	color: yellow;
+	color: #663300;
 	text-decoration: none;
+	font-weight: bold;
 }
 
 footer{
